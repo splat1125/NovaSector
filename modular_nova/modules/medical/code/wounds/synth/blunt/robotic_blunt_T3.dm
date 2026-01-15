@@ -64,7 +64,7 @@
 	ready_to_secure_internals = FALSE
 	ready_to_resolder = FALSE
 
-	undiagnosed_name = "Severe Deformation"
+	undiagnosed_name = "Catastrophic Deformation"
 	a_or_from = "a"
 
 	/// Has the first stage of our treatment been completed? E.g. RCDed, manually molded...
