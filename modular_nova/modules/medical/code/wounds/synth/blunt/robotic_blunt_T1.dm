@@ -18,6 +18,7 @@
 	limp_chance = 30
 	threshold_penalty = 20
 	can_scar = FALSE
+	undiagnosed_name = "Mechanical Issues"
 	a_or_from = "from"
 
 /datum/wound_pregen_data/blunt_metal/loose_screws

@@ -357,6 +357,7 @@
 	cooling_demote_buffer = 60
 	heating_promote_buffer = 100
 
+	undiagnosed_name = "Overheating"
 	a_or_from = "from"
 
 	// easy to get
@@ -396,6 +397,7 @@
 		raise the risk of thermal shock."
 	severity = WOUND_SEVERITY_SEVERE
 
+	undiagnosed_name = "Overheating"
 	a_or_from = "from"
 
 	threshold_penalty = 65
@@ -440,6 +442,7 @@
 		since the thermal shock may be lethal with such a temperature differential."
 	severity = WOUND_SEVERITY_CRITICAL
 
+	undiagnosed_name = "Intense Overheating"
 	a_or_from = "from"
 
 	sound_effect = 'sound/effects/wounds/sizzle2.ogg'

@@ -38,6 +38,7 @@
 	stagger_aftershock_knockdown_ratio = 0.3
 	stagger_aftershock_knockdown_movement_ratio = 0.2
 
+	undiagnosed_name = "Mechanical Issues"
 	a_or_from = "from"
 
 	ready_to_secure_internals = TRUE
